@@ -1,0 +1,10 @@
+.DS_Store
+/.idea
+/bin
+/obj
+npm-debug.log
+/node_modules/*
+
+
+#customized to open home page
+#!/node_modules/webpack-dev-server
